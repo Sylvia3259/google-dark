@@ -205,7 +205,7 @@ svg.gb_7e {
     color: #cccccc!important;
 }
 .aCOpRe em {
-    color: #f0f0f0!important;
+    color: #eeeeee!important;
 }
 .AUiS2 {
     border: 1px solid #353535!important;
@@ -256,7 +256,8 @@ svg.gb_7e {
     background: #2a2a2a!important;
 }
 .YyVfkd {
-    color: #ffffff!important;
+    color: #eeeeee!important;
+    font-weight: bold;
 }
 .ZGwO7.C0kchf.NaCKVc {
     border: 1px solid #353535!important;
