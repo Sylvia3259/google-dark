@@ -316,6 +316,11 @@ svg.gb_7e {
     color: #cccccc!important;
     border: none!important;
 }
+.YcWSDf {
+    color: #cccccc!important;
+    background: #353535!important;
+    border: 1px solid #404040!important;
+}
 
 .sbibod {
     color: #cccccc!important;
