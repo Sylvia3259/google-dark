@@ -264,6 +264,15 @@ svg.gb_7e {
 .ZGwO7.C0kchf.NaCKVc {
     border: 1px solid #404040!important;
 }
+.l {
+    color: #aaaaff!important;
+}
+.l:visited {
+    color: #aa77ff!important;
+}
+.s {
+    color: #cccccc!important;
+}
 
 #kO001e, .jZWadf {
     background: #252525!important;
