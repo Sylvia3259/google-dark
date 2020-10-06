@@ -30,7 +30,7 @@
         color: #cccccc!important;
     }
     .gNO89b, .RNmpXc {
-        color: #80868b!important;
+        color: #777777!important;
         background: #252525!important;
         border: none!important;
     }
@@ -38,21 +38,21 @@
         background: #2a2a2a!important
     }
     #SIvCob {
-        color: #80868b!important;
+        color: #777777!important;
     }
     .gb_g {
-        color: #80868b!important;
+        color: #777777!important;
     }
     .gb_D.gb_wc {
         filter: invert(100%)!important;
     }
     #fbar {
-        color: #80868b!important;
+        color: #777777!important;
         background: #252525!important;
         border-top: 1px solid #353535!important;
     }
     #fbar * {
-        color: #80868b!important;
+        color: #777777!important;
         border: none!important;
     }
     
@@ -326,7 +326,7 @@
         color: #aa77ff!important;
     }
     .iUh30.gBIQub {
-        color: #80868b!important;
+        color: #777777!important;
     }
     .GHDvEf {
         background: #202020!important;
@@ -347,7 +347,7 @@
         filter: invert(75%)!important;
     }
     .GmE3X {
-        color: #80868b!important;
+        color: #777777!important;
     }
     .ZTH1s.stOtnd.cv2VAd {
         color: #cccccc!important;
@@ -400,6 +400,9 @@
     }
     .s {
         color: #cccccc!important;
+    }
+    .f, .f * {
+        color: #777777!important;
     }
     
     #kO001e, .jZWadf {
