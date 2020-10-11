@@ -404,6 +404,12 @@
     .f, .f * {
         color: #777777!important;
     }
+    .uzjuFc {
+        border: 1px solid #353535!important;
+    }
+    .uzjuFc * {
+        color: #cccccc!important;
+    }
     
     #kO001e, .jZWadf {
         background: #202020!important;
