@@ -107,6 +107,9 @@
     #hdtb {
         border-bottom: 1px solid #353535!important;
     }
+    #hdtb-tls {
+        padding: 4px 11px!important;
+    }
     svg.gb_7e {
         filter: invert(100%)!important;
     }
@@ -319,6 +322,12 @@
         background: #353535!important;
         border: 1px solid #353535!important;
     }
+    .hdtb-mn-hd {
+        color: #777777!important;
+    }
+    .hdtb-mn-hd:hover span {
+        filter: invert(50%);
+    }
     .yuRUbf a {
         color: #aaaaff!important;
     }
@@ -477,6 +486,26 @@
     }
     .r5a77d {
         color: #cccccc!important;
+    }
+    .PNyWAd {
+        color: #cccccc!important;
+    }
+    .ZXJQ7c:hover {
+        background: #2a2a2a!important;
+        border: 1px solid #353535!important;
+    }
+    .ZXJQ7c.XD1Bsc {
+        background: #353535!important;
+        border: 1px solid #353535!important;
+    }
+    .qcTKEe {
+        background: #202020!important;
+    }
+    .qcTKEe div {
+        color: #777777!important;
+    }
+    .qcTKEe svg {
+        filter: invert(75%)!important;
     }
     
     .sbibod {
