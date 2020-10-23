@@ -471,6 +471,15 @@
     .YPxNKd {
         background: #353535!important;
     }
+    .qmv19b {
+        border: 1px solid #353535!important;
+    }
+    .EPLo7b {
+        border-top: 1px solid #353535!important;
+    }
+    .wqg8ad {
+        color: #cccccc!important;
+    }
     
     #kO001e, .jZWadf {
         background: #202020!important;
@@ -617,10 +626,6 @@
     .gb_5a.gb_F.gb_l.gb_oa .gb_Vb:hover {
         background: #2a2a2a!important;
     }
-    .gb_5a.gb_F.gb_l.gb_oa .gb_ag.gb_Hb {
-        border-top: 1px solid #353535!important;
-        border-bottom: 1px solid #353535!important;
-    }
     .gb_5a.gb_F.gb_l.gb_oa .gb_wb.gb_dg.gbp1.gb_1e.gb_7c {
         border: 1px solid #353535!important;
     }
@@ -638,6 +643,13 @@
     }
     .gb_5a.gb_F.gb_l.gb_oa .gb_Lb:hover {
         background: #2a2a2a!important;
+    }
+    .gb_wb.gb_wb {
+        border: 1px solid #353535!important;
+    }
+    .gb_Hb {
+        border-top: 1px solid #353535!important;
+        border-bottom: 1px solid #353535!important;
     }
     
     g-raised-button {
